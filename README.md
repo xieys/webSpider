@@ -3,4 +3,4 @@
 > 本项目主要是记录一些小型的爬虫项目
 
 - `baiduSpider`：爬取百度百科词条，[项目详情](https://github.com/xieys/webSpider/tree/master/baiduSpider)
-
+- `quotesSpider`：爬取[Quotes to Scrape](http://quotes.toscrape.com/),[项目详情](https://github.com/xieys/webSpider/tree/master/quotesSpider)
